@@ -1,0 +1,114 @@
+{
+   "info":{
+      "name":"Sandy",
+      "avatar":"/images/me.png",
+      "url_git":"https://github.com/sandraamore95",
+      "url_linkedin":"www.linkedin.com/in/sandraamore95",
+      "description":"Desarrolladora Backend con ganas de seguir aprendiendo y creciendo en el mundo del Backend. Me encanta crear API RESTful seguras y bien hechas, siempre buscando mejorar y resolver cualquier reto que se presente. Soy curiosa, proactiva y me gusta encontrar soluciones prácticas a los problemas.  "
+   },
+   "projects":[
+      {
+         "id":1,
+         "title":"AnimeHub API",
+         "description":"Backend que gestiona usuarios, perfiles, dibujos, comentarios y seguidores, además de proporcionar información sobre animes y permitir la gestión de una lista de favoritos.",
+         "category":"backend",
+         "url_git":"https://github.com/sandraamore95/anime_backend",
+         "image":"/images/projects/anime.JPG",
+         "technologies":[
+            "SpringBoot",
+            "MySQL"
+         ]
+      },
+      {
+         "id":2,
+         "title":"Banco - Frontend",
+         "description":"Es una aplicación que permite a los usuarios ver y crear transferencias, así como modificar su perfil personal. Con una interfaz intuitiva y segura, los usuarios pueden gestionar sus finanzas de manera sencilla y eficiente.",
+         "category":"frontend",
+         "url_git":"https://github.com/sandraamore95/banco_frontend",
+         "image":"/images/projects/banco.JPG",
+         "technologies":[
+            "Angular",
+            "Bootstrap"
+         ]
+      },
+      {
+         "id":3,
+         "title":"Banco API",
+         "description":"es la API que gestiona las operaciones financieras, permitiendo la creación y visualización de transferencias, así como la actualización de perfiles de usuario. Proporciona seguridad y eficiencia al procesar solicitudes y garantizar la integridad de los datos.",
+         "url_git":"https://github.com/sandraamore95/banco-api",
+         "category":"backend",
+         "image":"/images/projects/banco.JPG",
+         "technologies":[
+            "SpringBoot",
+            "MySQL"
+         ]
+      },
+      {
+         "id":4,
+         "title":"StepUp Shop - Frontend",
+         "description":" es una plataforma donde los usuarios pueden explorar una amplia variedad de zapatillas, añadir sus favoritas a una lista personal y realizar compras. Los usuarios registrados pueden gestionar su lista de favoritos y completar sus compras de manera segura y eficiente.",
+         "category":"frontend",
+         "url_git":"https://github.com/sandraamore95/step-up-frontend",
+         "image":"/images/projects/stepup.JPG",
+         "technologies":[
+            "React",
+            "Bootstrap"
+         ]
+      },
+      {
+         "id":5,
+         "title":"StepUp Shop API",
+         "description":"es la API que gestiona los productos, permite a los usuarios agregar zapatillas a sus favoritos y procesar compras. Asegura la integridad de los datos y facilita la interacción entre el frontend y la base de datos para una experiencia de compra fluida.",
+         "category":"backend",
+         "url_git":"https://github.com/sandraamore95/step-up-backend",
+         "image":"/images/projects/stepup.JPG",
+         "technologies":[
+            "Express",
+            "MongoDB"
+         ]
+      },
+      {
+         "id":6,
+         "title":"AnimeHub Frontend",
+         "description":"AnimeHub es una plataforma donde los usuarios pueden crear su perfil, subir sus dibujos de anime, comentar y seguir a otros artistas. Además, pueden descubrir nuevos animes y añadir sus favoritos a una lista personalizada.",
+         "category":"frontend",
+         "url_git":"https://github.com/sandraamore95/anime_frontend",
+         "image":"/images/projects/anime.JPG",
+         "technologies":[
+            "Angular",
+            "Bootstrap"
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "title":"Lenguajes",
+         "info":[
+            "Python",
+            "Javascript",
+            "TypeScript",
+            "Java"
+         ],
+         "icon":"fa fa-code"
+      },
+      {
+         "title":"Front-end",
+         "info":[
+            "Angular",
+            "React",
+            "Vue",
+            "Bootstrap"
+         ],
+         "icon":"fas fa-laptop-code"
+      },
+      {
+         "title":"Back-end",
+         "info":[
+            "SpringBoot",
+            "Express",
+            "FastAPI"
+         ],
+         "icon":"fas fa-laptop-code"
+      }
+   ]
+}
