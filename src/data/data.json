@@ -78,7 +78,20 @@
             "Angular",
             "Bootstrap"
          ]
+      },
+      {
+         "id":7,
+         "title":"Café con Altura",
+         "description":"Café con Altura  es un catálogo de productos desarrollado en un bootcamp, utilizando React y Bootstrap. Permite a los usuarios explorar y visualizar productos de café con una interfaz intuitiva y responsiva",
+         "category":"frontend",
+         "url_git":"",
+         "image":"/images/projects/cafeconaltura.JPG",
+         "technologies":[
+            "React",
+            "Bootstrap"
+         ]
       }
+
    ],
    "skills":[
       {
