@@ -91,8 +91,31 @@
             "Bootstrap"
          ]
       }
-
-   ],
+      ,
+      {
+         "id":8,
+         "title":"API Recipes",
+         "description":"API RESTful para gestión de recetas de cocina con sistema de autenticación y características sociales.",
+         "category":"backend",
+         "url_git":"https://github.com/sandraamore95/API-recipes",
+         "image":"/images/projects/backend_recipes.JPG",
+         "technologies":[
+            "SpringBoot",
+            "MySQL"
+         ]
+      },
+      {
+         "id":9,
+         "title":"API Recipes ",
+         "description":"Frontend para la API de recetas, permitiendo a los usuarios explorar y gestionar recetas de cocina.",
+         "category":"frontend",
+         "url_git":"https://github.com/sandraamore95/recipes-frontend",
+         "image":"/images/projects/frontend_recipes.JPG",         
+         "technologies":[
+            "React",
+            "Bootstrap"
+         ]
+   ,
    "skills":[
       {
          "title":"Lenguajes",
